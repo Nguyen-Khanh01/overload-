@@ -1,5 +1,5 @@
 const messages = [
-  "I MISS YOU"
+  "Em"
 ];
 
 function generateRandomNotifications() {
